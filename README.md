@@ -7,6 +7,7 @@ Compile:
 ```bash
 cd /usr/src
 git clone https://github.com/FastVPSEestiOu/cat_cache_safe.git
+cd cat_cache_safe
 make
 ./cat_cache_safe /etc/issue
 ```
